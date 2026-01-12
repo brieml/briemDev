@@ -11554,7 +11554,7 @@ pre {
   display: -webkit-flex;
   display: flex;
   border: 1px solid #dee2e6;
-  padding: 20px 0;
+  padding: 1rem 2rem;
   margin-top: -50px;
   z-index: 999;
   background: #fff;
